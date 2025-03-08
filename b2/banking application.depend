@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1741407343 source:d:\ec162\banking application\banking application\main.c
+	<stdio.h>
+	<stdlib.h>
+	"features.h"
+
+1741407190 d:\ec162\banking application\banking application\features.h
+
+1741334620 source:d:\ec162\banking application\banking application\create_user.c
+	"features.h"
+	<stdio.h>
+
+1741334620 source:d:\ec162\banking application\banking application\update_user.c
+	"features.h"
+	<stdio.h>
+
+1741404146 source:d:\ec162\banking application\banking application\credit_money.c
+	"features.h"
+	<stdio.h>
+
+1741406302 source:d:\ec162\banking application\banking application\transfer_money.c
+	"features.h"
+	<stdio.h>
+
+1741404156 source:d:\ec162\banking application\banking application\debit_money.c
+	"features.h"
+	<stdio.h>
+
+1741406302 source:d:\ec162\banking application\banking application\view_balance.c
+	"features.h"
+	<stdio.h>
+
+1741407834 source:d:\ec162\banking application\banking application\delete_user.c
+	"features.h"
+	<stdio.h>
+
